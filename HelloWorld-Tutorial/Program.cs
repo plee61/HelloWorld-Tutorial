@@ -6,7 +6,14 @@ namespace HelloWorld_Tutorial
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //Console.WriteLine("Hello World!");
+            //Numbers Tutorial
+
+            int a = 18;
+            int b = 6;
+            int c = a + b;
+            Console.WriteLine(c);
+
         }
     }
 }
